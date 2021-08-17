@@ -8,7 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Google Slides Wireframe Link:
+[Pet Park Finder](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge89fae4c4e_0_22)
 
 ### Project Tracker
 
